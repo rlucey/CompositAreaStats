@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-#********************************************************
+********************************************************
 FILE: SeasonComposites.py
 AUTHOR: wellenbu
 EMAIL: wle0001@uah.edu
@@ -10,10 +10,10 @@ EMAIL: rml0018@uah.edu
 ORGANIZATION: SERVIR
 CREATION DATE: 02/08/2018
 LAST MOD DATE: 03/12/2018
-PURPOSE: Utilizes GEE to aggragate quaterly means of a dataset, downloads and runs zonal statistics for an input polygon
+PURPOSE: Utilizes GEE to aggregate quarterly means of a dataset, downloads and runs zonal statistics for an input polygon
 DEPENDENCIES: pandas, numpy, rasterstats, urllib2, os, glob
 NOTES: Earth Engine API must be installed and Google Earth Engine must be authorized
-#********************************************************
+********************************************************
 """
 
 #import packages
